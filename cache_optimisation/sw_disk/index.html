@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Service Worker Cache</title>
+  <style>
+    img {
+      width: 50%;
+      height: auto;
+      margin-bottom: 10px;
+      display: inline-table;
+    }
+  </style>
+</head>
+<script>
+  (async (navigator) => {
+    // register service worker
+    try {
+      const registration = await navigator.serviceWorker.register('./sw.js')
+      registration;
+      //console.log(`sw registered, scope: ${registration.scope}`)
+    } catch (error) {
+      console.log(`sw registration failed: ${error}`)
+    };
+
+  })(navigator)
+</script>
+<body>
+  <div class="container-fluid">
+    <div class="container">
+      <div id="row"></div>
+    </div>
+    <script>
+      var row = document.getElementById("row")
+      // fetching images
+      const image = num => {
+        for (let i = 1; i <= num; i++) {
+          const imgPath = "images_lq/1.jpg"
+          fetch(imgPath)
+            .then(response => response.blob())
+            .then(function (response) {
+              var objectURL = URL.createObjectURL(response);
+              const img = document.createElement("img");
+              img.src = objectURL;
+              row.appendChild(img)
+            });
+        }
+      }
+      image(10)
+    </script>
+  </div>
+  <script src="index.js"></script>
+  <script src="perf.js"></script>
+</body>
+
+</html>

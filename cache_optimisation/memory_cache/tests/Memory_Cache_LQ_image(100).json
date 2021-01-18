@@ -1,0 +1,551 @@
+
+-----------1----------
+---------Initial Request--------
+
+first-paint : 450.3800 ms.
+first-contentful-paint : 450.3800 ms.min time:43.9800max time: 1006.9200
+Page full load time: 1380.4600
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 367.1600
+first-paint : 447.2600ms.
+first-contentful-paint : 447.2600ms.
+-----------2----------
+---------Initial Request--------
+
+first-paint : 2300.2450 ms.
+first-contentful-paint : 2300.2450 ms.min time:21.2050max time: 831.9750
+Page full load time: 3070.4450
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 360.3000
+first-paint : 434.3750ms.
+first-contentful-paint : 434.3750ms.
+-----------3----------
+---------Initial Request--------
+
+first-paint : 438.3700 ms.
+first-contentful-paint : 438.3700 ms.min time:23.5550max time: 786.2600
+Page full load time: 1134.3400
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 362.0700
+first-paint : 432.0200ms.
+first-contentful-paint : 432.0200ms.
+-----------4----------
+---------Initial Request--------
+
+first-paint : 437.8100 ms.
+first-contentful-paint : 437.8100 ms.min time:23.1100max time: 847.0400
+Page full load time: 1215.2800
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 364.0500
+first-paint : 433.1100ms.
+first-contentful-paint : 433.1100ms.
+-----------5----------
+---------Initial Request--------
+
+first-paint : 468.5950 ms.
+first-contentful-paint : 468.5950 ms.min time:114.9250max time: 871.5850
+Page full load time: 1248.1800
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 361.9550
+first-paint : 433.3900ms.
+first-contentful-paint : 433.3900ms.
+-----------6----------
+---------Initial Request--------
+
+first-paint : 422.2300 ms.
+first-contentful-paint : 422.2300 ms.min time:23.6950max time: 827.0250
+Page full load time: 1186.1300
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 364.0300
+first-paint : 438.7750ms.
+first-contentful-paint : 438.7750ms.
+-----------7----------
+---------Initial Request--------
+
+first-paint : 441.2600 ms.
+first-contentful-paint : 441.2600 ms.min time:24.9150max time: 792.9900
+Page full load time: 1158.4350
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 358.6850
+first-paint : 434.5450ms.
+first-contentful-paint : 434.5450ms.
+-----------8----------
+---------Initial Request--------
+
+first-paint : 430.8850 ms.
+first-contentful-paint : 430.8850 ms.min time:24.6450max time: 795.5300
+Page full load time: 1160.6550
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 364.4000
+first-paint : 438.1050ms.
+first-contentful-paint : 438.1050ms.
+-----------9----------
+---------Initial Request--------
+
+first-paint : 428.7850 ms.
+first-contentful-paint : 428.7850 ms.min time:21.7700max time: 820.5200
+Page full load time: 1176.1300
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 365.6700
+first-paint : 444.5600ms.
+first-contentful-paint : 444.5600ms.
+-----------10----------
+---------Initial Request--------
+
+first-paint : 607.3550 ms.
+first-contentful-paint : 607.3550 ms.min time:255.7350max time: 1026.7100
+Page full load time: 1375.6450
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 362.5150
+first-paint : 436.8550ms.
+first-contentful-paint : 436.8550ms.
+-----------11----------
+---------Initial Request--------
+
+first-paint : 425.3600 ms.
+first-contentful-paint : 425.3600 ms.min time:28.1450max time: 808.7650
+Page full load time: 1166.5850
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 363.0000
+first-paint : 436.0200ms.
+first-contentful-paint : 436.0200ms.
+-----------12----------
+---------Initial Request--------
+
+first-paint : 434.3000 ms.
+first-contentful-paint : 434.3000 ms.min time:21.6800max time: 874.3800
+Page full load time: 1242.3550
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 369.8400
+first-paint : 452.3150ms.
+first-contentful-paint : 452.3150ms.
+-----------13----------
+---------Initial Request--------
+
+first-paint : 425.9600 ms.
+first-contentful-paint : 425.9600 ms.min time:27.1100max time: 896.9900
+Page full load time: 1268.7400
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 366.7900
+first-paint : 449.3400ms.
+first-contentful-paint : 449.3400ms.
+-----------14----------
+---------Initial Request--------
+
+first-paint : 448.5650 ms.
+first-contentful-paint : 448.5650 ms.min time:26.6650max time: 947.7150
+Page full load time: 1296.2850
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 368.8500
+first-paint : 452.7850ms.
+first-contentful-paint : 452.7850ms.
+-----------15----------
+---------Initial Request--------
+
+first-paint : 449.9450 ms.
+first-contentful-paint : 449.9450 ms.min time:24.5400max time: 889.5950
+Page full load time: 1256.1600
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 367.7400
+first-paint : 450.2250ms.
+first-contentful-paint : 450.2250ms.
+-----------16----------
+---------Initial Request--------
+
+first-paint : 442.6500 ms.
+first-contentful-paint : 442.6500 ms.min time:30.2000max time: 911.5950
+Page full load time: 1297.4500
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 367.5850
+first-paint : 450.8000ms.
+first-contentful-paint : 450.8000ms.
+-----------17----------
+---------Initial Request--------
+
+first-paint : 2279.3250 ms.
+first-contentful-paint : 2279.3250 ms.min time:28.8800max time: 876.0500
+Page full load time: 3091.9950
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 368.9700
+first-paint : 455.0150ms.
+first-contentful-paint : 455.0150ms.
+-----------18----------
+---------Initial Request--------
+
+first-paint : 459.1250 ms.
+first-contentful-paint : 459.1250 ms.min time:25.7800max time: 956.2250
+Page full load time: 1333.5150
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 368.3400
+first-paint : 449.9550ms.
+first-contentful-paint : 449.9550ms.
+-----------19----------
+---------Initial Request--------
+
+first-paint : 453.9950 ms.
+first-contentful-paint : 453.9950 ms.min time:28.4000max time: 985.7550
+Page full load time: 1345.3800
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 368.5000
+first-paint : 453.1750ms.
+first-contentful-paint : 453.1750ms.
+-----------20----------
+---------Initial Request--------
+
+first-paint : 412.0300 ms.
+first-contentful-paint : 412.0300 ms.min time:27.0850max time: 910.0250
+Page full load time: 1261.7300
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 367.0150
+first-paint : 451.7950ms.
+first-contentful-paint : 451.7950ms.
+-----------21----------
+---------Initial Request--------
+
+first-paint : 457.7950 ms.
+first-contentful-paint : 457.7950 ms.min time:45.9150max time: 905.0100
+Page full load time: 1285.0100
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 367.0450
+first-paint : 445.7750ms.
+first-contentful-paint : 445.7750ms.
+-----------22----------
+---------Initial Request--------
+
+first-paint : 426.3250 ms.
+first-contentful-paint : 426.3250 ms.min time:27.9950max time: 918.9500
+Page full load time: 1282.2150
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 368.7000
+first-paint : 464.6850ms.
+first-contentful-paint : 464.6850ms.
+-----------23----------
+---------Initial Request--------
+
+first-paint : 443.0500 ms.
+first-contentful-paint : 443.0500 ms.min time:26.4950max time: 952.1950
+Page full load time: 1316.9450
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 365.9600
+first-paint : 451.7400ms.
+first-contentful-paint : 451.7400ms.
+-----------24----------
+---------Initial Request--------
+
+first-paint : 2273.2500 ms.
+first-contentful-paint : 2273.2500 ms.min time:24.4250max time: 924.3100
+Page full load time: 3134.5550
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 365.2100
+first-paint : 450.0600ms.
+first-contentful-paint : 450.0600ms.
+-----------25----------
+---------Initial Request--------
+
+first-paint : 418.1950 ms.
+first-contentful-paint : 418.1950 ms.min time:30.9500max time: 934.6600
+Page full load time: 1300.3950
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 366.7600
+first-paint : 448.4100ms.
+first-contentful-paint : 448.4100ms.
+-----------26----------
+---------Initial Request--------
+
+first-paint : 462.1350 ms.
+first-contentful-paint : 462.1350 ms.min time:27.5050max time: 889.7650
+Page full load time: 1269.5950
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 365.8150
+first-paint : 446.1850ms.
+first-contentful-paint : 446.1850ms.
+-----------27----------
+---------Initial Request--------
+
+first-paint : 438.6600 ms.
+first-contentful-paint : 438.6600 ms.min time:27.4250max time: 905.8250
+Page full load time: 1273.3950
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 362.7550
+first-paint : 442.9300ms.
+first-contentful-paint : 442.9300ms.
+-----------28----------
+---------Initial Request--------
+
+first-paint : 439.0350 ms.
+first-contentful-paint : 439.0350 ms.min time:29.3350max time: 929.7350
+Page full load time: 1308.3100
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 366.6600
+first-paint : 446.7600ms.
+first-contentful-paint : 446.7600ms.
+-----------29----------
+---------Initial Request--------
+
+first-paint : 450.9450 ms.
+first-contentful-paint : 450.9450 ms.min time:26.8900max time: 909.7000
+Page full load time: 1263.4450
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 361.6850
+first-paint : 445.6250ms.
+first-contentful-paint : 445.6250ms.
+-----------30----------
+---------Initial Request--------
+
+first-paint : 424.5400 ms.
+first-contentful-paint : 424.5400 ms.min time:27.8400max time: 967.1100
+Page full load time: 1333.0950
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 368.9450
+first-paint : 449.9750ms.
+first-contentful-paint : 449.9750ms.
+-----------31----------
+---------Initial Request--------
+
+first-paint : 421.5300 ms.
+first-contentful-paint : 421.5300 ms.min time:27.0800max time: 910.6350
+Page full load time: 1279.9200
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 365.7000
+first-paint : 448.9250ms.
+first-contentful-paint : 448.9250ms.
+-----------32----------
+---------Initial Request--------
+
+first-paint : 461.2800 ms.
+first-contentful-paint : 461.2800 ms.min time:29.1350max time: 890.6050
+Page full load time: 1265.6250
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 361.5000
+first-paint : 445.1200ms.
+first-contentful-paint : 445.1200ms.
+-----------33----------
+---------Initial Request--------
+
+first-paint : 445.7400 ms.
+first-contentful-paint : 445.7400 ms.min time:29.2700max time: 925.5550
+Page full load time: 1283.6150
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 369.8700
+first-paint : 452.3600ms.
+first-contentful-paint : 452.3600ms.
+-----------34----------
+---------Initial Request--------
+
+first-paint : 421.6100 ms.
+first-contentful-paint : 421.6100 ms.min time:28.7450max time: 933.1700
+Page full load time: 1312.1100
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 365.3900
+first-paint : 452.1650ms.
+first-contentful-paint : 452.1650ms.
+-----------35----------
+---------Initial Request--------
+
+first-paint : 419.8200 ms.
+first-contentful-paint : 419.8200 ms.min time:24.5650max time: 878.3800
+Page full load time: 1247.4850
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 364.9400
+first-paint : 451.4450ms.
+first-contentful-paint : 451.4450ms.
+-----------36----------
+---------Initial Request--------
+
+first-paint : 452.8900 ms.
+first-contentful-paint : 452.8900 ms.min time:26.1550max time: 890.1150
+Page full load time: 1258.9950
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 368.4600
+first-paint : 448.6300ms.
+first-contentful-paint : 448.6300ms.
+-----------37----------
+---------Initial Request--------
+
+first-paint : 438.9000 ms.
+first-contentful-paint : 438.9000 ms.min time:27.3050max time: 904.5650
+Page full load time: 1260.2400
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 367.4200
+first-paint : 452.2600ms.
+first-contentful-paint : 452.2600ms.
+-----------38----------
+---------Initial Request--------
+
+first-paint : 418.5350 ms.
+first-contentful-paint : 418.5350 ms.min time:30.6350max time: 900.5950
+Page full load time: 1254.3350
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 367.6650
+first-paint : 451.6700ms.
+first-contentful-paint : 451.6700ms.
+-----------39----------
+---------Initial Request--------
+
+first-paint : 413.4250 ms.
+first-contentful-paint : 413.4250 ms.min time:28.0600max time: 922.0200
+Page full load time: 1302.4650
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 362.3800
+first-paint : 443.1500ms.
+first-contentful-paint : 443.1500ms.
+-----------40----------
+---------Initial Request--------
+
+first-paint : 411.6350 ms.
+first-contentful-paint : 411.6350 ms.min time:28.5050max time: 897.2000
+Page full load time: 1252.7050
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 364.0450
+first-paint : 449.2900ms.
+first-contentful-paint : 449.2900ms.
+-----------41----------
+---------Initial Request--------
+
+first-paint : 2305.9900 ms.
+first-contentful-paint : 2305.9900 ms.min time:26.9550max time: 922.3150
+Page full load time: 3133.5550
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 363.9150
+first-paint : 446.3000ms.
+first-contentful-paint : 446.3000ms.
+-----------42----------
+---------Initial Request--------
+
+first-paint : 452.2750 ms.
+first-contentful-paint : 452.2750 ms.min time:27.3500max time: 914.0150
+Page full load time: 1291.1700
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 366.7650
+first-paint : 455.0850ms.
+first-contentful-paint : 455.0850ms.
+-----------43----------
+---------Initial Request--------
+
+first-paint : 421.5400 ms.
+first-contentful-paint : 421.5400 ms.min time:26.3550max time: 870.7600
+Page full load time: 1234.8450
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 368.1800
+first-paint : 447.7200ms.
+first-contentful-paint : 447.7200ms.
+-----------44----------
+---------Initial Request--------
+
+first-paint : 412.3650 ms.
+first-contentful-paint : 412.3650 ms.min time:28.3550max time: 895.8850
+Page full load time: 1247.9400
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 367.3050
+first-paint : 458.8450ms.
+first-contentful-paint : 458.8450ms.
+-----------45----------
+---------Initial Request--------
+
+first-paint : 419.7300 ms.
+first-contentful-paint : 419.7300 ms.min time:24.6900max time: 983.4200
+Page full load time: 1352.1150
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 361.6500
+first-paint : 444.2000ms.
+first-contentful-paint : 444.2000ms.
+-----------46----------
+---------Initial Request--------
+
+first-paint : 414.1850 ms.
+first-contentful-paint : 414.1850 ms.min time:29.7050max time: 899.4900
+Page full load time: 1277.9100
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 379.0500
+first-paint : 460.0600ms.
+first-contentful-paint : 460.0600ms.
+-----------47----------
+---------Initial Request--------
+
+first-paint : 427.5250 ms.
+first-contentful-paint : 427.5250 ms.min time:24.8350max time: 845.8900
+Page full load time: 1196.7100
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 358.3100
+first-paint : 435.1850ms.
+first-contentful-paint : 435.1850ms.
+-----------48----------
+---------Initial Request--------
+
+first-paint : 428.1950 ms.
+first-contentful-paint : 428.1950 ms.min time:22.3400max time: 871.0150
+Page full load time: 1225.7300
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 362.3850
+first-paint : 435.4400ms.
+first-contentful-paint : 435.4400ms.
+-----------49----------
+---------Initial Request--------
+
+first-paint : 433.1950 ms.
+first-contentful-paint : 433.1950 ms.min time:22.4050max time: 825.8150
+Page full load time: 1185.1400
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 361.1900
+first-paint : 430.2350ms.
+first-contentful-paint : 430.2350ms.
+-----------50----------
+---------Initial Request--------
+
+first-paint : 438.5500 ms.
+first-contentful-paint : 438.5500 ms.min time:24.0150max time: 830.3800
+Page full load time: 1191.6700
+ ---------Reload--------
+min time:0.0000max time: 0.0000
+Page full load time: 365.7350
+first-paint : 437.1050ms.
+first-contentful-paint : 437.1050ms.

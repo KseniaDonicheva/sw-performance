@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Service Worker Load balancer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<h2>Service Worker Load Balancer</h2>
+<style>
+  img {
+    width:80%;
+    height: auto;
+  }
+</style>
+<select id="image-selector" disabled>
+  <option value="">Select and image</option>
+  <option value="images/1.jpg">Image 1</option>
+  <option value="images/2.jpg">Image 2</option>
+  <option value="images/3.jpg">Image 3</option>
+</select>
+<p><img src="" alt="" /></p>
+<script>
+// Message from SW:
+const channel = new BroadcastChannel('sw-messages');
+channel.addEventListener('message', event => {
+  console.log('Message from SW', JSON.stringify(event.data));
+});
+</script>
+<script src="./index.js"></script>
+</body>
+</html>

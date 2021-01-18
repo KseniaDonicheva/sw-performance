@@ -1,0 +1,440 @@
+-----------10 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":10.980000020936131}
+13.00999999511987
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":26.44499996677041}
+28.369999956339598
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":13.140000053681433}
+14.550000079907477
+-----------11 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":13.94500001333654}
+16.029999940656126
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":22.824999992735684}
+24.74000002257526
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":12.749999994412065}
+14.824999962002039
+
+-----------12 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":19.16000002529472}
+21.3199999416247
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":30.814999947324395}
+32.76499989442527
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":14.844999997876585}
+16.315000015310943
+-----------13 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":18.129999982193112}
+20.03000001423061
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":23.950000060722232}
+26.93999989423901
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":14.854999957606196}
+17.98499992582947
+
+-----------14 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":25.969999958761036}
+28.320000041276217
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":31.4250000519678}
+33.500000019557774
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":11.71500002965331}
+13.979999930597842
+-----------15 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":17.110000015236437}
+19.30499996524304
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":28.16499990876764}
+30.015000025741756
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":12.774999951943755}
+14.604999916628003
+-----------16 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":14.740000013262033}
+16.820000018924475
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":29.045000090263784}
+30.99500003736466
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":12.01000006403774}
+14.989999937824905
+-----------17 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":30.655000009573996}
+32.54499996546656
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":31.4250000519678}
+33.96999998949468
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":13.334999908693135}
+14.999999897554517
+-----------18 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":18.170000053942204}
+19.994999980553985
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":34.29999994114041}
+36.819999921135604
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":14.510000008158386}
+16.354999970644712
+-----------19 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":11.620000004768372}
+13.629999943077564
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":29.920000000856817}
+31.990000046789646
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":11.934999958612025}
+14.020000002346933
+-----------20 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":22.68499997444451}
+25.40499996393919
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":39.274999988265336}
+41.19999997783452
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":16.444999957457185}
+17.834999947808683
+-----------21 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":17.47000007890165}
+19.435000023804605
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":35.3449999820441}
+37.635000073350966
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":11.004999978467822}
+12.789999949745834
+-----------22 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":11.260000057518482}
+13.135000015608966
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":38.259999942965806}
+40.63999990466982
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":16.474999953061342}
+18.37499998509884
+-----------23 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":15.479999943636358}
+17.284999950788915
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":36.3499999511987}
+38.36999996565282
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":12.459999998100102}
+15.610000002197921
+-----------24 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":9.97999997343868}
+11.870000045746565
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":36.21000004932284}
+38.52499998174608
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":15.084999962709844}
+18.090000026859343
+-----------25 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":14.224999933503568}
+16.170000075362623
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":38.24500006157905}
+40.6199999852106
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":11.685000034049153}
+14.290000079199672
+-----------26 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":15.675000031478703}
+17.804999952204525
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":42.049999930895865}
+44.255000073462725
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":15.405000071041286}
+16.900000046007335
+-----------27 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":11.43499999307096}
+13.415000052191317
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":40.705000050365925}
+42.505000019446015
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":13.720000046305358}
+15.175000065937638
+-----------28 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":13.324999948963523}
+15.475000021979213
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":41.744999936781824}
+44.639999978244305
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":15.535000013187528}
+18.515000003390014
+-----------29 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":17.50499999616295}
+19.924999913200736
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":45.82999995909631}
+48.06000005919486
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":17.860000021755695}
+20.300000091083348
+-----------30 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":11.524999979883432}
+13.389999978244305
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":44.68499997165054}
+46.86999996192753
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":11.904999963007867}
+16.84000005479902
+
+-----------31 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":15.830000047571957}
+18.6149999499321
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":47.38000000361353}
+49.17500005103648
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":13.704999932087958}
+15.974999987520278
+-----------32 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":20.84500005003065}
+23.34999991580844
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":46.80500004906207}
+48.73000003863126
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":12.22500007133931}
+14.035000000149012
+-----------33 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":11.640000040642917}
+13.774999999441206
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":46.29499989096075}
+48.454999923706055
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":16.79999998304993}
+18.6149999499321
+-----------34 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":16.78499998524785}
+18.779999925754964
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":47.43999999482185}
+49.725000048056245
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":10.53999993018806}
+12.364999973215163
+-----------35 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":15.76999993994832}
+17.764999996870756
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":48.3150000218302}
+50.3749999916181
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":15.814999933354557}
+17.82499998807907
+-----------36 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":19.21499997843057}
+21.320000058040023
+
+Message from SW {"serverNumber":1}
+Message from SW {"SWScript_duration":50.165000022388995}
+52.8700000140816
+
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":12.469999957829714}
+14.255000045523047
+-----------37 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":11.375000001862645}
+13.724999967962503
+
+Message from SW {"serverNumber":1}
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":63.15499998163432}
+65.3300000121817
+
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":14.229999971576035}
+15.76999993994832
+-----------38 ms delay----------
+
+sw registered, scope: http://localhost:8080/
+ui enabled
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":18.745000008493662}
+20.885000005364418
+
+Message from SW {"serverNumber":1}
+Message from SW {"serverNumber":2}
+Message from SW {"SWScript_duration":65.94000000040978}
+67.78500007931143
+
+Message from SW {"serverNumber":0}
+Message from SW {"SWScript_duration":10.300000081770122}
+13.384999940171838

@@ -1,0 +1,12 @@
+{% include "../partials/header.html" %} 
+{% block content %} {% endblock%}
+ {% include "../partials/footer.html" %} 
+
+<script>
+  if (navigator.serviceWorker) {
+    navigator.serviceWorker.register('/sw.js')
+      .then(registration => {
+        //console.log("SW scope:", registration.scope);
+      });
+  }
+</script>

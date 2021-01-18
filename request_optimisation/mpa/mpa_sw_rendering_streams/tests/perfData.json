@@ -1,0 +1,767 @@
+
+-----------1----------
+
+---------Initial Request--------
+
+first-paint : 126.9700ms.
+first-contentful-paint : 126.9700ms.
+DOM complete = 132.94999999925494
+TTFB = 34.48999999091029
+PageLoadTime = 132.77000002563
+ ---------Reload--------
+
+first-paint : 32.2400ms.
+first-contentful-paint : 32.2400ms.
+DOM complete = 35.25499999523163
+TTFB = 1.4700000174343586
+PageLoadTime = 33.71000004699454
+-----------2----------
+
+---------Initial Request--------
+
+first-paint : 101.0300ms.
+first-contentful-paint : 101.0300ms.
+DOM complete = 126.76000001374632
+TTFB = 35.44000000692904
+PageLoadTime = 126.61500001559034
+ ---------Reload--------
+
+first-paint : 29.1750ms.
+first-contentful-paint : 29.1750ms.
+DOM complete = 34.71000003628433
+TTFB = 1.5499999863095582
+PageLoadTime = 32.95999998226762
+-----------3----------
+
+---------Initial Request--------
+
+first-paint : 97.7800ms.
+first-contentful-paint : 97.7800ms.
+DOM complete = 102.27500001201406
+TTFB = 33.389999996870756
+PageLoadTime = 102.11999999592081
+ ---------Reload--------
+
+first-paint : 28.6300ms.
+first-contentful-paint : 28.6300ms.
+DOM complete = 33.724999986588955
+TTFB = 1.39999995008111
+PageLoadTime = 32.189999998081475
+-----------4----------
+
+---------Initial Request--------
+
+first-paint : 82.0400ms.
+first-contentful-paint : 82.0400ms.
+DOM complete = 100.35000002244487
+TTFB = 32.17000002041459
+PageLoadTime = 100.19000002648681
+ ---------Reload--------
+
+first-paint : 34.9850ms.
+first-contentful-paint : 34.9850ms.
+DOM complete = 33.51000003749505
+TTFB = 1.3850000104866922
+PageLoadTime = 31.955000013113022
+-----------5----------
+
+---------Initial Request--------
+
+DOM complete = 108.79500000737607
+TTFB = 29.854999971576035
+PageLoadTime = 108.58499997993931
+ ---------Reload--------
+
+first-paint : 27.8850ms.
+first-contentful-paint : 27.8850ms.
+DOM complete = 33.29500003019348
+TTFB = 1.4050000463612378
+PageLoadTime = 31.605000025592744
+-----------6----------
+
+---------Initial Request--------
+
+first-paint : 95.1950ms.
+first-contentful-paint : 95.1950ms.
+DOM complete = 108.17000002134591
+TTFB = 31.964999972842634
+PageLoadTime = 107.99999994924292
+ ---------Reload--------
+
+first-paint : 31.2400ms.
+first-contentful-paint : 31.2400ms.
+DOM complete = 34.485000011045486
+TTFB = 1.4599999994970858
+PageLoadTime = 32.8950000111945
+-----------7----------
+
+---------Initial Request--------
+
+first-paint : 92.9100ms.
+first-contentful-paint : 92.9100ms.
+DOM complete = 108.99999999674037
+TTFB = 31.485000043176115
+PageLoadTime = 108.5000000311993
+ ---------Reload--------
+
+first-paint : 32.2150ms.
+first-contentful-paint : 32.2150ms.
+DOM complete = 34.45499995723367
+TTFB = 1.4899999951012433
+PageLoadTime = 32.860000035725534
+-----------8----------
+
+---------Initial Request--------
+
+first-paint : 77.9600ms.
+first-contentful-paint : 77.9600ms.
+DOM complete = 98.21000002557412
+TTFB = 29.054999991785735
+PageLoadTime = 98.0549999512732
+ ---------Reload--------
+
+first-paint : 29.5550ms.
+first-contentful-paint : 29.5550ms.
+DOM complete = 35.2650000131689
+TTFB = 1.4649999793618917
+PageLoadTime = 32.9749999800697
+-----------9----------
+
+---------Initial Request--------
+
+DOM complete = 110.18499999772757
+TTFB = 29.205000028014183
+PageLoadTime = 110.02500000176951
+ ---------Reload--------
+
+first-paint : 27.4450ms.
+first-contentful-paint : 27.4450ms.
+DOM complete = 32.965000020340085
+TTFB = 1.400000008288771
+PageLoadTime = 31.42499999376014
+-----------10----------
+
+---------Initial Request--------
+
+first-paint : 83.2400ms.
+first-contentful-paint : 83.2400ms.
+DOM complete = 102.78000001562759
+TTFB = 34.060000034514815
+PageLoadTime = 102.60000004200265
+ ---------Reload--------
+
+first-paint : 29.0100ms.
+first-contentful-paint : 29.0100ms.
+DOM complete = 33.63499999977648
+TTFB = 1.339999958872795
+PageLoadTime = 32.07999997539446
+-----------11----------
+
+---------Initial Request--------
+
+first-paint : 79.8950ms.
+first-contentful-paint : 79.8950ms.
+DOM complete = 99.24499999033287
+TTFB = 31.20999998645857
+PageLoadTime = 99.07499997643754
+ ---------Reload--------
+
+first-paint : 28.5150ms.
+first-contentful-paint : 28.5150ms.
+DOM complete = 33.81499997340143
+TTFB = 1.4599999994970858
+PageLoadTime = 32.24999998928979
+-----------12----------
+
+---------Initial Request--------
+
+DOM complete = 110.6349999899976
+TTFB = 33.884999982547015
+PageLoadTime = 110.45500001637265
+ ---------Reload--------
+
+first-paint : 28.2650ms.
+first-contentful-paint : 28.2650ms.
+DOM complete = 33.76999997999519
+TTFB = 1.400000008288771
+PageLoadTime = 32.16000000247732
+-----------13----------
+
+---------Initial Request--------
+
+first-paint : 94.4050ms.
+first-contentful-paint : 94.4050ms.
+DOM complete = 101.45499999634922
+TTFB = 30.7050000410527
+PageLoadTime = 101.28500004066154
+ ---------Reload--------
+
+first-paint : 28.5050ms.
+first-contentful-paint : 28.5050ms.
+DOM complete = 33.99999998509884
+TTFB = 1.4199999859556556
+PageLoadTime = 32.42000000318512
+-----------14----------
+
+---------Initial Request--------
+
+DOM complete = 111.10500001814216
+TTFB = 31.55499999411404
+PageLoadTime = 110.79000000609085
+ ---------Reload--------
+
+first-paint : 28.7150ms.
+first-contentful-paint : 28.7150ms.
+DOM complete = 34.23499997006729
+TTFB = 1.4400000218302011
+PageLoadTime = 32.66500000609085
+-----------15----------
+
+---------Initial Request--------
+
+first-paint : 93.1850ms.
+first-contentful-paint : 93.1850ms.
+DOM complete = 112.24500002572313
+TTFB = 43.880000011995435
+PageLoadTime = 112.0750000118278
+ ---------Reload--------
+
+first-paint : 32.1500ms.
+first-contentful-paint : 32.1500ms.
+DOM complete = 34.565000038128346
+TTFB = 1.400000008288771
+PageLoadTime = 33.05000002728775
+-----------16----------
+
+---------Initial Request--------
+
+DOM complete = 103.22499996982515
+TTFB = 29.51500000199303
+PageLoadTime = 102.74499998195097
+ ---------Reload--------
+
+first-paint : 28.8350ms.
+first-contentful-paint : 28.8350ms.
+DOM complete = 34.309999959077686
+TTFB = 1.6300000133924186
+PageLoadTime = 32.53000002587214
+-----------17----------
+
+---------Initial Request--------
+
+first-paint : 81.3050ms.
+first-contentful-paint : 81.3050ms.
+DOM complete = 100.77499999897555
+TTFB = 33.269999956246465
+PageLoadTime = 100.50999996019527
+ ---------Reload--------
+
+first-paint : 29.5600ms.
+first-contentful-paint : 29.5600ms.
+DOM complete = 34.340000012889504
+TTFB = 1.4150000060908496
+PageLoadTime = 32.79999998630956
+-----------18----------
+
+---------Initial Request--------
+
+first-paint : 78.2150ms.
+first-contentful-paint : 78.2150ms.
+DOM complete = 100.99499998614192
+TTFB = 28.729999961797148
+PageLoadTime = 100.82499997224659
+ ---------Reload--------
+
+first-paint : 29.5000ms.
+first-contentful-paint : 29.5000ms.
+DOM complete = 34.40000000409782
+TTFB = 1.4199999859556556
+PageLoadTime = 32.6900000218302
+-----------19----------
+
+---------Initial Request--------
+
+first-paint : 81.2150ms.
+first-contentful-paint : 81.2150ms.
+DOM complete = 100.05999996792525
+TTFB = 33.269999956246465
+PageLoadTime = 99.50499999104068
+ ---------Reload--------
+
+first-paint : 29.7350ms.
+first-contentful-paint : 29.7350ms.
+DOM complete = 36.580000014510006
+TTFB = 1.5750000020489097
+PageLoadTime = 35.00000003259629
+-----------20----------
+
+---------Initial Request--------
+
+first-paint : 93.9700ms.
+first-contentful-paint : 93.9700ms.
+DOM complete = 100.57000000961125
+TTFB = 31.699999992270023
+PageLoadTime = 100.40999995544553
+ ---------Reload--------
+
+first-paint : 29.2300ms.
+first-contentful-paint : 29.2300ms.
+DOM complete = 35.12999997474253
+TTFB = 1.3850000104866922
+PageLoadTime = 33.445000008214265
+-----------21----------
+
+---------Initial Request--------
+
+DOM complete = 109.79999997653067
+TTFB = 32.61500003281981
+PageLoadTime = 109.27000001538545
+ ---------Reload--------
+
+first-paint : 28.3900ms.
+first-contentful-paint : 28.3900ms.
+DOM complete = 33.90500001842156
+TTFB = 1.39999995008111
+PageLoadTime = 32.24499995121732
+-----------22----------
+
+---------Initial Request--------
+
+DOM complete = 100.24499997962266
+TTFB = 31.339999986812472
+PageLoadTime = 100.09500000160187
+ ---------Reload--------
+
+first-paint : 28.0350ms.
+first-contentful-paint : 28.0350ms.
+DOM complete = 33.660000015515834
+TTFB = 1.3299999991431832
+PageLoadTime = 31.974999990779907
+-----------23----------
+
+---------Initial Request--------
+
+first-paint : 91.7250ms.
+first-contentful-paint : 91.7250ms.
+DOM complete = 98.65999995963648
+TTFB = 30.98500001942739
+PageLoadTime = 98.49000000394881
+ ---------Reload--------
+
+first-paint : 28.5600ms.
+first-contentful-paint : 28.5600ms.
+DOM complete = 34.39499996602535
+TTFB = 1.6549999709241092
+PageLoadTime = 32.79499994823709
+-----------24----------
+
+---------Initial Request--------
+
+DOM complete = 107.87000000709668
+TTFB = 34.059999976307154
+PageLoadTime = 107.68499999539927
+ ---------Reload--------
+
+first-paint : 28.3600ms.
+first-contentful-paint : 28.3600ms.
+DOM complete = 33.620000001974404
+TTFB = 1.4899999951012433
+PageLoadTime = 32.085000013466924
+-----------25----------
+
+---------Initial Request--------
+
+first-paint : 86.1800ms.
+first-contentful-paint : 86.1800ms.
+DOM complete = 105.92000000178814
+TTFB = 36.64000000571832
+PageLoadTime = 105.67499999888241
+ ---------Reload--------
+
+first-paint : 29.1050ms.
+first-contentful-paint : 29.1050ms.
+DOM complete = 34.93500000331551
+TTFB = 1.7300000181421638
+PageLoadTime = 33.349999983329326
+-----------26----------
+
+---------Initial Request--------
+
+DOM complete = 109.3799999798648
+TTFB = 34.32999999495223
+PageLoadTime = 109.21500000404194
+ ---------Reload--------
+
+first-paint : 28.4100ms.
+first-contentful-paint : 28.4100ms.
+DOM complete = 33.61499996390194
+TTFB = 1.49500003317371
+PageLoadTime = 31.895000021904707
+-----------27----------
+
+---------Initial Request--------
+
+first-paint : 78.1400ms.
+first-contentful-paint : 78.1400ms.
+DOM complete = 97.7650000131689
+TTFB = 31.98500000871718
+PageLoadTime = 97.27000002749264
+ ---------Reload--------
+
+first-paint : 31.8650ms.
+first-contentful-paint : 31.8650ms.
+DOM complete = 34.619999991264194
+TTFB = 1.2650000280700624
+PageLoadTime = 33.204999985173345
+-----------28----------
+
+---------Initial Request--------
+
+first-paint : 79.0400ms.
+first-contentful-paint : 79.0400ms.
+DOM complete = 96.9150000018999
+TTFB = 32.44000003905967
+PageLoadTime = 96.76500002387911
+ ---------Reload--------
+
+first-paint : 28.3000ms.
+first-contentful-paint : 28.3000ms.
+DOM complete = 34.100000048056245
+TTFB = 1.4050000463612378
+PageLoadTime = 32.53500000573695
+-----------29----------
+
+---------Initial Request--------
+
+first-paint : 82.3200ms.
+first-contentful-paint : 82.3200ms.
+DOM complete = 100.670000014361
+TTFB = 33.17000000970438
+PageLoadTime = 100.45500000705943
+ ---------Reload--------
+
+first-paint : 29.5000ms.
+first-contentful-paint : 29.5000ms.
+DOM complete = 35.474999982398
+TTFB = 1.3299999991431832
+PageLoadTime = 33.8750000228174
+-----------30----------
+
+---------Initial Request--------
+
+first-paint : 77.3950ms.
+first-contentful-paint : 77.3950ms.
+DOM complete = 95.75500001665205
+TTFB = 30.280000006314367
+PageLoadTime = 95.61499999836087
+ ---------Reload--------
+
+first-paint : 31.9450ms.
+first-contentful-paint : 31.9450ms.
+DOM complete = 34.35499995248392
+TTFB = 1.504999992903322
+PageLoadTime = 32.00000000651926
+-----------31----------
+
+---------Initial Request--------
+
+first-paint : 79.3300ms.
+first-contentful-paint : 79.3300ms.
+DOM complete = 97.9199999710545
+TTFB = 32.13499998673797
+PageLoadTime = 97.65499999048188
+ ---------Reload--------
+
+first-paint : 29.0000ms.
+first-contentful-paint : 29.0000ms.
+DOM complete = 34.15500000119209
+TTFB = 1.5100000309757888
+PageLoadTime = 32.485000032465905
+-----------32----------
+
+---------Initial Request--------
+
+first-paint : 83.8000ms.
+first-contentful-paint : 83.8000ms.
+DOM complete = 102.92000003391877
+TTFB = 35.17499996814877
+PageLoadTime = 102.71999996621162
+ ---------Reload--------
+
+first-paint : 32.6500ms.
+first-contentful-paint : 32.6500ms.
+DOM complete = 33.87499996460974
+TTFB = 1.550000044517219
+PageLoadTime = 32.31500001857057
+-----------33----------
+
+---------Initial Request--------
+
+DOM complete = 105.26499996194616
+TTFB = 30.88999999454245
+PageLoadTime = 105.10500002419576
+ ---------Reload--------
+
+first-paint : 28.9300ms.
+first-contentful-paint : 28.9300ms.
+DOM complete = 33.89500000048429
+TTFB = 1.500000013038516
+PageLoadTime = 32.26499998709187
+-----------34----------
+
+---------Initial Request--------
+
+first-paint : 79.4150ms.
+first-contentful-paint : 79.4150ms.
+DOM complete = 98.55499997502193
+TTFB = 29.11500004120171
+PageLoadTime = 98.37000002153218
+ ---------Reload--------
+
+first-paint : 28.0200ms.
+first-contentful-paint : 28.0200ms.
+DOM complete = 33.63999997964129
+TTFB = 1.4949999749660492
+PageLoadTime = 31.979999970644712
+-----------35----------
+
+---------Initial Request--------
+
+first-paint : 97.3450ms.
+first-contentful-paint : 97.3450ms.
+DOM complete = 113.0550000234507
+TTFB = 33.95999997155741
+PageLoadTime = 112.37999994773418
+ ---------Reload--------
+
+DOM complete = 34.205000032670796
+TTFB = 1.4100000262260437
+PageLoadTime = 32.59499999694526
+-----------36----------
+
+---------Initial Request--------
+
+DOM complete = 109.28999999305233
+TTFB = 33.684999973047525
+PageLoadTime = 109.05999998794869
+ ---------Reload--------
+
+first-paint : 28.2200ms.
+first-contentful-paint : 28.2200ms.
+DOM complete = 38.53499999968335
+TTFB = 1.4550000196322799
+PageLoadTime = 36.98500001337379
+-----------37----------
+
+---------Initial Request--------
+
+first-paint : 80.4200ms.
+first-contentful-paint : 80.4200ms.
+DOM complete = 100.64499999862164
+TTFB = 31.414999975822866
+PageLoadTime = 100.47999996459112
+ ---------Reload--------
+
+first-paint : 28.8250ms.
+first-contentful-paint : 28.8250ms.
+DOM complete = 34.01999996276572
+TTFB = 1.349999976810068
+PageLoadTime = 32.429999962914735
+-----------38----------
+
+---------Initial Request--------
+
+first-paint : 97.9250ms.
+first-contentful-paint : 97.9250ms.
+DOM complete = 111.80499999318272
+TTFB = 34.31000001728535
+PageLoadTime = 111.45500000566244
+ ---------Reload--------
+
+first-paint : 28.0650ms.
+first-contentful-paint : 28.0650ms.
+DOM complete = 33.89500000048429
+TTFB = 1.2799999676644802
+PageLoadTime = 32.31999999843538
+-----------39----------
+
+---------Initial Request--------
+
+first-paint : 78.7350ms.
+first-contentful-paint : 78.7350ms.
+DOM complete = 97.86500001791865
+TTFB = 30.979999981354922
+PageLoadTime = 97.69500000402331
+ ---------Reload--------
+
+first-paint : 30.0700ms.
+first-contentful-paint : 30.0700ms.
+DOM complete = 35.61500000068918
+TTFB = 1.5150000108405948
+PageLoadTime = 34.125000005587935
+-----------40----------
+
+---------Initial Request--------
+
+first-paint : 1944.7650ms.
+first-contentful-paint : 1944.7650ms.
+DOM complete = 1963.3950000279583
+TTFB = 1890.929999994114
+PageLoadTime = 1963.2049999781884
+ ---------Reload--------
+
+first-paint : 28.0500ms.
+first-contentful-paint : 28.0500ms.
+DOM complete = 33.7450000224635
+TTFB = 1.395000028423965
+PageLoadTime = 32.070000015664846
+-----------41----------
+
+---------Initial Request--------
+
+DOM complete = 100.75500002130866
+TTFB = 30.380000011064112
+PageLoadTime = 100.55999999167398
+ ---------Reload--------
+
+first-paint : 31.9950ms.
+first-contentful-paint : 31.9950ms.
+DOM complete = 34.37500004656613
+TTFB = 1.5349999885074794
+PageLoadTime = 32.829999981913716
+-----------42----------
+
+---------Initial Request--------
+
+DOM complete = 102.7899999753572
+TTFB = 30.20999999716878
+PageLoadTime = 102.61000000173226
+ ---------Reload--------
+
+first-paint : 32.0000ms.
+first-contentful-paint : 32.0000ms.
+DOM complete = 34.419999981764704
+TTFB = 1.4850000152364373
+PageLoadTime = 32.91499998886138
+-----------43----------
+
+---------Initial Request--------
+
+DOM complete = 109.02500001247972
+TTFB = 33.28999999212101
+PageLoadTime = 108.86999999638647
+ ---------Reload--------
+
+first-paint : 30.5000ms.
+first-contentful-paint : 30.5000ms.
+DOM complete = 36.59000003244728
+TTFB = 1.560000004246831
+PageLoadTime = 35.044999967794865
+-----------44----------
+
+---------Initial Request--------
+
+first-paint : 105.4200ms.
+first-contentful-paint : 105.4200ms.
+DOM complete = 119.93999994592741
+TTFB = 31.965000031050295
+PageLoadTime = 119.16500004008412
+ ---------Reload--------
+
+first-paint : 32.3750ms.
+first-contentful-paint : 32.3750ms.
+DOM complete = 38.66500000003725
+TTFB = 1.3349999790079892
+PageLoadTime = 36.97499999543652
+-----------45----------
+
+---------Initial Request--------
+
+first-paint : 1982.0700ms.
+first-contentful-paint : 1982.0700ms.
+DOM complete = 1979.3749999953434
+TTFB = 1859.7949999966659
+PageLoadTime = 1979.1599999880418
+ ---------Reload--------
+
+first-paint : 30.8050ms.
+first-contentful-paint : 30.8050ms.
+DOM complete = 36.1900000134483
+TTFB = 1.3250000192783773
+PageLoadTime = 34.64000002713874
+-----------46----------
+
+---------Initial Request--------
+
+DOM complete = 111.8650000425987
+TTFB = 30.150000005960464
+PageLoadTime = 111.70999996829778
+ ---------Reload--------
+
+first-paint : 30.8100ms.
+first-contentful-paint : 30.8100ms.
+DOM complete = 36.68000001925975
+TTFB = 1.3299999991431832
+PageLoadTime = 35.08000000147149
+-----------47----------
+
+---------Initial Request--------
+
+first-paint : 112.2500ms.
+first-contentful-paint : 112.2500ms.
+DOM complete = 139.53500002389774
+TTFB = 39.594999980181456
+PageLoadTime = 139.3149999785237
+ ---------Reload--------
+
+first-paint : 33.7500ms.
+first-contentful-paint : 33.7500ms.
+DOM complete = 36.56500001670793
+TTFB = 1.6000000177882612
+PageLoadTime = 35.005000012461096
+-----------48----------
+
+---------Initial Request--------
+
+first-paint : 89.5050ms.
+first-contentful-paint : 89.5050ms.
+DOM complete = 106.99000000022352
+TTFB = 32.070000015664846
+PageLoadTime = 106.78500001085922
+ ---------Reload--------
+
+DOM complete = 37.93500002939254
+TTFB = 1.4049999881535769
+PageLoadTime = 36.32999997353181
+-----------49----------
+
+---------Initial Request--------
+
+first-paint : 85.4900ms.
+first-contentful-paint : 85.4900ms.
+DOM complete = 105.19999999087304
+TTFB = 31.139999977312982
+PageLoadTime = 105.00499996123835
+ ---------Reload--------
+
+first-paint : 32.4850ms.
+first-contentful-paint : 32.4850ms.
+DOM complete = 38.46999997040257
+TTFB = 1.6750000067986548
+PageLoadTime = 36.90499998629093
+-----------50----------
+
+---------Initial Request--------
+
+first-paint : 89.4400ms.
+first-contentful-paint : 89.4400ms.
+DOM complete = 115.51500001223758
+TTFB = 36.900000006426126
+PageLoadTime = 115.18500000238419
+ ---------Reload--------
+
+first-paint : 31.5700ms.
+first-contentful-paint : 31.5700ms.
+DOM complete = 36.88000002875924
+TTFB = 1.4300000038929284
+PageLoadTime = 35.15999997034669

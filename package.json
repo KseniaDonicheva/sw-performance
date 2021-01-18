@@ -1,0 +1,23 @@
+{
+  "name": "sw-performance-tests",
+  "version": "1.0.0",
+  "description": "Service Worker use cases and performance tests",
+  "main": "none",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "net": "^1.0.2",
+    "nunjucks": "^3.2.2",
+    "puppeteer": "^5.5.0",
+    "server-timing": "^3.3.1",
+    "static-module": "^3.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

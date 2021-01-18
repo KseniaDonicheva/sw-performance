@@ -1,0 +1,751 @@
+
+-----------1----------
+---------Initial Request--------
+
+Page full load time: 407.1300
+Min resource timing: 24.2450
+Max resource timing: 87.1750
+first-paint : 534.2100
+first-contentful-paint : 534.2100
+ ---------Reload--------
+
+Page full load time: 37.3450
+first-paint : 118.6100
+first-contentful-paint : 118.6100
+Min resource timing: 9.4050
+Max resource timing: 92.7700
+-----------2----------
+---------Initial Request--------
+
+Page full load time: 392.9100
+Min resource timing: 29.0900
+Max resource timing: 91.3900
+first-paint : 562.6700
+first-contentful-paint : 562.6700
+ ---------Reload--------
+
+Page full load time: 35.9650
+Min resource timing: 6.1050
+Max resource timing: 91.2200
+first-paint : 167.7150
+first-contentful-paint : 167.7150
+-----------3----------
+---------Initial Request--------
+
+Page full load time: 395.9200
+Min resource timing: 27.0750
+Max resource timing: 94.4500
+first-paint : 528.4600
+first-contentful-paint : 528.4600
+ ---------Reload--------
+
+Page full load time: 36.3600
+Min resource timing: 6.5000
+Max resource timing: 77.3950
+first-paint : 138.3900
+first-contentful-paint : 138.3900
+-----------4----------
+---------Initial Request--------
+
+Page full load time: 394.0050
+Min resource timing: 27.5650
+Max resource timing: 91.6500
+first-paint : 548.0500
+first-contentful-paint : 548.0500
+ ---------Reload--------
+
+Page full load time: 39.6550
+Min resource timing: 14.2800
+Max resource timing: 93.0750
+first-paint : 178.4350
+first-contentful-paint : 178.4350
+-----------5----------
+---------Initial Request--------
+
+Page full load time: 389.6750
+first-paint : 517.4500
+first-contentful-paint : 517.4500
+Min resource timing: 28.5200
+Max resource timing: 87.7600
+ ---------Reload--------
+
+Page full load time: 33.3600
+first-paint : 82.7300
+first-contentful-paint : 82.7300
+Min resource timing: 17.4100
+Max resource timing: 106.7800
+-----------6----------
+---------Initial Request--------
+
+Page full load time: 398.4150
+Min resource timing: 19.9600
+Max resource timing: 84.3300
+first-paint : 602.5250
+first-contentful-paint : 602.5250
+ ---------Reload--------
+
+Page full load time: 33.2400
+first-paint : 122.2000
+first-contentful-paint : 122.2000
+Min resource timing: 14.0200
+Max resource timing: 105.7050
+-----------7----------
+---------Initial Request--------
+
+Page full load time: 391.9000
+Min resource timing: 26.3200
+Max resource timing: 91.0950
+first-paint : 545.3950
+first-contentful-paint : 545.3950
+ ---------Reload--------
+
+Page full load time: 36.6700
+first-paint : 103.7250
+first-contentful-paint : 103.7250
+Min resource timing: 14.3150
+Max resource timing: 93.2350
+-----------8----------
+---------Initial Request--------
+
+Page full load time: 386.3350
+first-paint : 527.5500
+first-contentful-paint : 527.5500
+Min resource timing: 27.5350
+Max resource timing: 92.1900
+ ---------Reload--------
+
+Page full load time: 37.0150
+Min resource timing: 7.8950
+Max resource timing: 88.3750
+first-paint : 134.4950
+first-contentful-paint : 134.4950
+-----------9----------
+---------Initial Request--------
+
+Page full load time: 394.8050
+Min resource timing: 29.5800
+Max resource timing: 93.1750
+first-paint : 585.9150
+first-contentful-paint : 585.9150
+ ---------Reload--------
+
+Page full load time: 41.9900
+first-paint : 158.5600
+first-contentful-paint : 158.5600
+Min resource timing: 17.5350
+Max resource timing: 94.5200
+-----------10----------
+---------Initial Request--------
+
+Page full load time: 393.1100
+Min resource timing: 26.3950
+Max resource timing: 88.5600
+first-paint : 557.8400
+first-contentful-paint : 557.8400
+ ---------Reload--------
+
+Page full load time: 36.9750
+first-paint : 87.7150
+first-contentful-paint : 87.7150
+Min resource timing: 8.5950
+Max resource timing: 89.4200
+-----------11----------
+---------Initial Request--------
+
+Page full load time: 397.8400
+Min resource timing: 19.7100
+Max resource timing: 84.7250
+first-paint : 590.1050
+first-contentful-paint : 590.1050
+ ---------Reload--------
+
+Page full load time: 36.7000
+Min resource timing: 7.9350
+Max resource timing: 83.6950
+first-paint : 177.9400
+first-contentful-paint : 177.9400
+-----------12----------
+---------Initial Request--------
+
+Page full load time: 399.6900
+first-paint : 595.0850
+first-contentful-paint : 595.0850
+Min resource timing: 30.6650
+Max resource timing: 91.5000
+ ---------Reload--------
+
+Page full load time: 44.3600
+first-paint : 158.5550
+first-contentful-paint : 158.5550
+Min resource timing: 10.2900
+Max resource timing: 105.8450
+-----------13----------
+---------Initial Request--------
+
+Page full load time: 402.0200
+Min resource timing: 26.9650
+Max resource timing: 107.1200
+first-paint : 606.3100
+first-contentful-paint : 606.3100
+ ---------Reload--------
+
+Page full load time: 43.2200
+Min resource timing: 8.7750
+Max resource timing: 99.4900
+first-paint : 237.2850
+first-contentful-paint : 237.2850
+-----------14----------
+---------Initial Request--------
+
+Page full load time: 408.0000
+Min resource timing: 35.4500
+Max resource timing: 107.3150
+first-paint : 552.8350
+first-contentful-paint : 552.8350
+ ---------Reload--------
+
+Page full load time: 44.7750
+first-paint : 141.1050
+first-contentful-paint : 141.1050
+Min resource timing: 15.5950
+Max resource timing: 107.1300
+-----------15----------
+---------Initial Request--------
+
+Page full load time: 400.9400
+first-paint : 549.3700
+first-contentful-paint : 549.3700
+Min resource timing: 32.0550
+Max resource timing: 111.8650
+ ---------Reload--------
+
+Page full load time: 45.7250
+Min resource timing: 13.7900
+Max resource timing: 100.7600
+first-paint : 198.1300
+first-contentful-paint : 198.1300
+-----------16----------
+---------Initial Request--------
+
+Page full load time: 405.9650
+Min resource timing: 32.2300
+Max resource timing: 120.3750
+first-paint : 550.4500
+first-contentful-paint : 550.4500
+ ---------Reload--------
+
+Page full load time: 45.1150
+first-paint : 108.3200
+first-contentful-paint : 108.3200
+Min resource timing: 10.9200
+Max resource timing: 120.4850
+-----------17----------
+---------Initial Request--------
+
+Page full load time: 408.2400
+Min resource timing: 32.4950
+Max resource timing: 104.3650
+first-paint : 649.1500
+first-contentful-paint : 649.1500
+ ---------Reload--------
+
+Page full load time: 39.4300
+first-paint : 173.4150
+first-contentful-paint : 173.4150
+Min resource timing: 10.0800
+Max resource timing: 135.0100
+-----------18----------
+---------Initial Request--------
+
+Page full load time: 410.2650
+Min resource timing: 32.9400
+Max resource timing: 127.1650
+first-paint : 592.6400
+first-contentful-paint : 592.6400
+ ---------Reload--------
+
+Page full load time: 38.5950
+Min resource timing: 9.3150
+Max resource timing: 80.1750
+first-paint : 197.9600
+first-contentful-paint : 197.9600
+-----------19----------
+---------Initial Request--------
+
+Page full load time: 397.3900
+Min resource timing: 28.9150
+Max resource timing: 87.0050
+first-paint : 515.7300
+first-contentful-paint : 515.7300
+ ---------Reload--------
+
+Page full load time: 36.2850
+Min resource timing: 8.8900
+Max resource timing: 85.9650
+first-paint : 183.3550
+first-contentful-paint : 183.3550
+-----------20----------
+---------Initial Request--------
+
+Page full load time: 388.9600
+Min resource timing: 25.5050
+Max resource timing: 93.6300
+first-paint : 541.0600
+first-contentful-paint : 541.0600
+ ---------Reload--------
+
+Page full load time: 40.6050
+Min resource timing: 12.4550
+Max resource timing: 86.2100
+first-paint : 176.6300
+first-contentful-paint : 176.6300
+-----------21----------
+---------Initial Request--------
+
+Page full load time: 389.8950
+Min resource timing: 25.5400
+Max resource timing: 86.6600
+first-paint : 540.6600
+first-contentful-paint : 540.6600
+ ---------Reload--------
+
+Page full load time: 36.7000
+first-paint : 124.8550
+first-contentful-paint : 124.8550
+Min resource timing: 8.2350
+Max resource timing: 87.8450
+-----------22----------
+---------Initial Request--------
+
+Page full load time: 393.9400
+Min resource timing: 24.6550
+Max resource timing: 91.8000
+first-paint : 601.6600
+first-contentful-paint : 601.6600
+ ---------Reload--------
+
+Page full load time: 37.1050
+first-paint : 120.7500
+first-contentful-paint : 120.7500
+Min resource timing: 12.4950
+Max resource timing: 99.1850
+-----------23----------
+---------Initial Request--------
+
+Page full load time: 385.7000
+Min resource timing: 25.6600
+Max resource timing: 98.2350
+first-paint : 546.7400
+first-contentful-paint : 546.7400
+ ---------Reload--------
+
+Page full load time: 33.0350
+first-paint : 88.1050
+first-contentful-paint : 88.1050
+Min resource timing: 21.5000
+Max resource timing: 91.5350
+-----------24----------
+---------Initial Request--------
+
+Page full load time: 390.4650
+Min resource timing: 27.1100
+Max resource timing: 84.5650
+first-paint : 542.5500
+first-contentful-paint : 542.5500
+ ---------Reload--------
+
+Page full load time: 41.0650
+Min resource timing: 9.5650
+Max resource timing: 97.3950
+first-paint : 219.5650
+first-contentful-paint : 219.5650
+-----------25----------
+---------Initial Request--------
+
+Page full load time: 386.8950
+first-paint : 472.5300
+first-contentful-paint : 472.5300
+Min resource timing: 26.6650
+Max resource timing: 91.6950
+ ---------Reload--------
+
+Page full load time: 40.7900
+first-paint : 115.4400
+first-contentful-paint : 115.4400
+Min resource timing: 10.6950
+Max resource timing: 91.6050
+-----------26----------
+---------Initial Request--------
+
+Page full load time: 398.1000
+Min resource timing: 19.5100
+Max resource timing: 89.2150
+first-paint : 521.6700
+first-contentful-paint : 521.6700
+ ---------Reload--------
+
+Page full load time: 36.2550
+first-paint : 106.0050
+first-contentful-paint : 106.0050
+Min resource timing: 10.4150
+Max resource timing: 97.9050
+-----------27----------
+---------Initial Request--------
+
+Page full load time: 401.1900
+Min resource timing: 27.1200
+Max resource timing: 90.5350
+first-paint : 553.6350
+first-contentful-paint : 553.6350
+ ---------Reload--------
+
+Page full load time: 37.7250
+first-paint : 154.2950
+first-contentful-paint : 154.2950
+Min resource timing: 12.0450
+Max resource timing: 102.6800
+-----------28----------
+---------Initial Request--------
+
+Page full load time: 392.8200
+Min resource timing: 25.9250
+Max resource timing: 90.1950
+first-paint : 546.8000
+first-contentful-paint : 546.8000
+ ---------Reload--------
+
+Page full load time: 37.6200
+first-paint : 155.5050
+first-contentful-paint : 155.5050
+Min resource timing: 10.9400
+Max resource timing: 87.3400
+-----------29----------
+---------Initial Request--------
+
+Page full load time: 388.2450
+Min resource timing: 26.2600
+Max resource timing: 90.1300
+first-paint : 544.1850
+first-contentful-paint : 544.1850
+ ---------Reload--------
+
+Page full load time: 39.2750
+Min resource timing: 11.9350
+Max resource timing: 82.8750
+first-paint : 166.0400
+first-contentful-paint : 166.0400
+-----------30----------
+---------Initial Request--------
+
+Page full load time: 387.6100
+Min resource timing: 26.8050
+Max resource timing: 86.5350
+first-paint : 568.3600
+first-contentful-paint : 568.3600
+ ---------Reload--------
+
+Page full load time: 37.9750
+Min resource timing: 10.1800
+Max resource timing: 86.9150
+first-paint : 201.2750
+first-contentful-paint : 201.2750
+-----------31----------
+---------Initial Request--------
+
+Page full load time: 391.6400
+Min resource timing: 26.2400
+Max resource timing: 93.1900
+first-paint : 559.5450
+first-contentful-paint : 559.5450
+ ---------Reload--------
+
+Page full load time: 36.7150
+Min resource timing: 11.9850
+Max resource timing: 89.1400
+first-paint : 164.6450
+first-contentful-paint : 164.6450
+-----------32----------
+---------Initial Request--------
+
+Page full load time: 382.8900
+Min resource timing: 25.5400
+Max resource timing: 100.7250
+first-paint : 499.7550
+first-contentful-paint : 499.7550
+ ---------Reload--------
+
+Page full load time: 37.5600
+first-paint : 157.5400
+first-contentful-paint : 157.5400
+Min resource timing: 8.2650
+Max resource timing: 87.9250
+-----------33----------
+---------Initial Request--------
+
+Page full load time: 398.6100
+Min resource timing: 28.8050
+Max resource timing: 94.5750
+first-paint : 590.1150
+first-contentful-paint : 590.1150
+ ---------Reload--------
+
+Page full load time: 38.5000
+Min resource timing: 12.6850
+Max resource timing: 86.2300
+first-paint : 198.7650
+first-contentful-paint : 198.7650
+-----------34----------
+---------Initial Request--------
+
+Page full load time: 388.8350
+Min resource timing: 25.4700
+Max resource timing: 86.5200
+first-paint : 535.3650
+first-contentful-paint : 535.3650
+ ---------Reload--------
+
+Page full load time: 40.1800
+Min resource timing: 13.2300
+Max resource timing: 83.4350
+first-paint : 156.7750
+first-contentful-paint : 156.7750
+-----------35----------
+---------Initial Request--------
+
+Page full load time: 394.4400
+Min resource timing: 30.1100
+Max resource timing: 88.9400
+first-paint : 562.6850
+first-contentful-paint : 562.6850
+ ---------Reload--------
+
+Page full load time: 37.6000
+first-paint : 125.5550
+first-contentful-paint : 125.5550
+Min resource timing: 10.8450
+Max resource timing: 88.0950
+-----------36----------
+---------Initial Request--------
+
+Page full load time: 398.9250
+Min resource timing: 26.4700
+Max resource timing: 87.2600
+first-paint : 603.6300
+first-contentful-paint : 603.6300
+ ---------Reload--------
+
+Page full load time: 38.9600
+Min resource timing: 13.9100
+Max resource timing: 95.4700
+first-paint : 168.1200
+first-contentful-paint : 168.1200
+-----------37----------
+---------Initial Request--------
+
+Page full load time: 397.5400
+Min resource timing: 27.3050
+Max resource timing: 86.8950
+first-paint : 516.4550
+first-contentful-paint : 516.4550
+ ---------Reload--------
+
+Page full load time: 36.2600
+first-paint : 118.2600
+first-contentful-paint : 118.2600
+Min resource timing: 6.8400
+Max resource timing: 97.2000
+-----------38----------
+---------Initial Request--------
+
+Page full load time: 391.6550
+Min resource timing: 27.6150
+Max resource timing: 95.3850
+first-paint : 545.3700
+first-contentful-paint : 545.3700
+ ---------Reload--------
+
+Page full load time: 43.6350
+first-paint : 147.3900
+first-contentful-paint : 147.3900
+Min resource timing: 14.2350
+Max resource timing: 104.3650
+-----------39----------
+---------Initial Request--------
+
+Page full load time: 398.1600
+Min resource timing: 32.4300
+Max resource timing: 104.2850
+first-paint : 618.8200
+first-contentful-paint : 618.8200
+ ---------Reload--------
+
+Page full load time: 44.9350
+first-paint : 171.2600
+first-contentful-paint : 171.2600
+Min resource timing: 15.3600
+Max resource timing: 124.7300
+-----------40----------
+---------Initial Request--------
+
+Page full load time: 399.8250
+Min resource timing: 29.4550
+Max resource timing: 107.1650
+first-paint : 629.8650
+first-contentful-paint : 629.8650
+ ---------Reload--------
+
+Page full load time: 44.2150
+first-paint : 120.8700
+first-contentful-paint : 120.8700
+Min resource timing: 14.3150
+Max resource timing: 109.2650
+-----------41----------
+---------Initial Request--------
+
+Page full load time: 397.3100
+Min resource timing: 35.3250
+Max resource timing: 112.5200
+first-paint : 555.7700
+first-contentful-paint : 555.7700
+ ---------Reload--------
+
+Page full load time: 41.5100
+Min resource timing: 18.1200
+Max resource timing: 105.7450
+first-paint : 218.0450
+first-contentful-paint : 218.0450
+-----------42----------
+---------Initial Request--------
+
+Page full load time: 409.8550
+Min resource timing: 35.7100
+Max resource timing: 103.9850
+first-paint : 654.8450
+first-contentful-paint : 654.8450
+ ---------Reload--------
+
+Page full load time: 39.6950
+first-paint : 118.4300
+first-contentful-paint : 118.4300
+Min resource timing: 29.7200
+Max resource timing: 132.2350
+-----------43----------
+---------Initial Request--------
+
+Page full load time: 409.2650
+Min resource timing: 31.2150
+Max resource timing: 115.1350
+first-paint : 633.8700
+first-contentful-paint : 633.8700
+ ---------Reload--------
+
+Page full load time: 45.3950
+first-paint : 173.9350
+first-contentful-paint : 173.9350
+Min resource timing: 10.1850
+Max resource timing: 118.8450
+-----------44----------
+---------Initial Request--------
+
+Page full load time: 401.0450
+Min resource timing: 32.8950
+Max resource timing: 111.6150
+first-paint : 549.0500
+first-contentful-paint : 549.0500
+ ---------Reload--------
+
+Page full load time: 37.5100
+first-paint : 126.9500
+first-contentful-paint : 126.9500
+Min resource timing: 8.5000
+Max resource timing: 95.1150
+-----------45----------
+---------Initial Request--------
+
+Page full load time: 386.0850
+Min resource timing: 26.1000
+Max resource timing: 87.7050
+first-paint : 513.8100
+first-contentful-paint : 513.8100
+ ---------Reload--------
+
+Page full load time: 36.9850
+first-paint : 117.6850
+first-contentful-paint : 117.6850
+Min resource timing: 10.9500
+Max resource timing: 85.0250
+-----------46----------
+---------Initial Request--------
+
+Page full load time: 389.1450
+Min resource timing: 29.7950
+Max resource timing: 92.1400
+first-paint : 535.8750
+first-contentful-paint : 535.8750
+ ---------Reload--------
+
+Page full load time: 36.3350
+first-paint : 119.9400
+first-contentful-paint : 119.9400
+Min resource timing: 9.8400
+Max resource timing: 88.2700
+-----------47----------
+---------Initial Request--------
+
+Page full load time: 391.4000
+Min resource timing: 27.9100
+Max resource timing: 87.9100
+first-paint : 578.6450
+first-contentful-paint : 578.6450
+ ---------Reload--------
+
+Page full load time: 38.4100
+Min resource timing: 13.1700
+Max resource timing: 82.9000
+first-paint : 159.3150
+first-contentful-paint : 159.3150
+-----------48----------
+---------Initial Request--------
+
+Page full load time: 394.0600
+Min resource timing: 27.3300
+Max resource timing: 91.0650
+first-paint : 521.8200
+first-contentful-paint : 521.8200
+ ---------Reload--------
+
+Page full load time: 35.3350
+Min resource timing: 10.9550
+Max resource timing: 84.0550
+first-paint : 181.0650
+first-contentful-paint : 181.0650
+-----------49----------
+---------Initial Request--------
+
+Page full load time: 396.5100
+Min resource timing: 25.4900
+Max resource timing: 92.9500
+first-paint : 547.2500
+first-contentful-paint : 547.2500
+ ---------Reload--------
+
+Page full load time: 40.1700
+first-paint : 117.0200
+first-contentful-paint : 117.0200
+Min resource timing: 13.8750
+Max resource timing: 94.1300
+-----------50----------
+---------Initial Request--------
+
+Page full load time: 388.0950
+Min resource timing: 25.4250
+Max resource timing: 88.1200
+first-paint : 511.8250
+first-contentful-paint : 511.8250
+ ---------Reload--------
+
+Page full load time: 33.2100
+first-paint : 130.1750
+first-contentful-paint : 130.1750
+Min resource timing: 22.4850
+Max resource timing: 105.3200
