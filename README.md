@@ -1,4 +1,4 @@
-# Service-Worker-Performance-Evaluation
+# Web Performance Optimisation using Service Worker 
 Putting together use cases and evaluating performance impact of service workers on rendering performance
 
 ## Installation
