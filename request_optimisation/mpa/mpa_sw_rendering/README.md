@@ -23,7 +23,9 @@ In this case, Service Worker does the precaching for static elements of the page
 - Wait 5 seconds
 - Await console log
 - Close browser
----------------------------------------
+--------------------------------------
+-  Each test is repeated N times (N=50)
+--------------------------------------
 ### Metrics
 - Time to First Byte (TTFB)
 - First Contentful Paint (FCP)
