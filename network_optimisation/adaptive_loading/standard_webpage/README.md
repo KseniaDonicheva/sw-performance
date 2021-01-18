@@ -23,6 +23,7 @@ Image is served through HTML select element. Select element is used after the DO
 - Close browser
 --------------------------------------
 -  Each test is repeated N times (N=50)
+--------------------------------------
 ### Metrics
 - Resource Timing (`[ResponseEnd] - [FetchStart]`)
 
