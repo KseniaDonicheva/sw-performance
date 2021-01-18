@@ -21,6 +21,9 @@ This is an example of Service Worker functioning as a load balancer for multiple
 - Select item 3
 - Await console log
 - Close browser
+--------------------------------------
+-  Each test is repeated N times (N=50)
+--------------------------------------
 
 ### Metrics
 - SW Script duration with User Timing API, measuring from fetch request (sw.js line 65), until the response is loaded (sw.js line 33)
