@@ -21,7 +21,9 @@ This an multi-page application (MPA) based on Nunjucks templating system. Usuall
 - Wait 5 seconds
 - Await console log
 - Close browser
- 
+ --------------------------------------
+-  Each test is repeated N times (N=50)
+--------------------------------------
 ### Metrics
 - Time to First Byte (TTFB)
 - First Contentful Paint (FCP)
