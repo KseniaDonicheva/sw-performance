@@ -24,6 +24,9 @@ This version Service Worker also specifies a cache strategy, that caches only on
 - Select item 3
 - Await console log
 - Close browser
+--------------------------------------
+-  Each test is repeated N times (N=50)
+--------------------------------------
 
 ### Test results
 folder /tests
