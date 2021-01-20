@@ -25,7 +25,9 @@ The traditional Single-Page-Application (SPA) architecture employs client side r
 
 # Test procedure
 ### Start the test
-- __Important before each test (!)__ : remove the old Service Worker from browser. Or tick the option "update on reload" in Chrome. 
+- __Important before each test (!)__ : remove the old Service Worker from browser. Or tick the option "update on reload" in Chrome.
+- Run `npm install` in this folder to install Vue and its components
+- Prepare build `npm run build`(the `serve` option, doesn't support service worker)
 - Start the server: `http-server -p 8080 -c-1 ./dist`
 - Run test file: `node ../tests/runPerfTest.js`
 - Test results are written to `perfData.json`
